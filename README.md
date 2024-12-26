@@ -28,7 +28,7 @@ Enjoy a quick match with immediate feedback and a final outcome at the end.
 <h2 id="installation">Installation &amp; Compilation</h2>
 <ol>
   <li><strong>Download or Clone the Source Code:</strong>
-    <pre><code>git clone &lt;REPOSITORY-URL&gt;</code></pre>
+    <pre><code>git clone https://github.com/Mohammad-Amin-Shikhani97/tic-tac-toe.git</code></pre>
   </li>
   <li><strong>Check Project Structure:</strong>  
     Ensure the files are within the <code>TicTacToe</code> package directory and the package statement matches.
